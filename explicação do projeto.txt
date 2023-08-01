@@ -1,0 +1,3 @@
+Olá seja bem-vindo ao projeto cadastro de funcionários, nesse projeto foi desenvolvido
+ em sala de aula com auxilio do meu tutor onde ele me orientou a fazer meu primeiro projeto
+a ideia do projeto e cadastrar funcionários e mostrar a ele quando ele está ganhando na empresa.
